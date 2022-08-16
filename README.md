@@ -1,5 +1,5 @@
 # TA5
-TA5: Desarrollo de una aplicación móvil básica
+TA5: Desarrollo de una aplicación móvil básica\n
 Grupo#8
 Integrantes:
 -Torres Jara Emily Teresa
